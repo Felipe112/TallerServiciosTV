@@ -8,7 +8,6 @@ public class Vehiculo {
     private String matricula;
     private String marca;
     private String modelo;
-    
     /**
      * Constructor de la clse vehiculo
      * @param matricula
