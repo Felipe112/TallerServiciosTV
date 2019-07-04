@@ -1,5 +1,8 @@
 # TallerServiciosTV
 
+### Este proyecto fue creado con fines academicos y con el cual se busca explicar conceptos de programación
+### mediante un ejemplo practico.
+
 Se pretende desarrollar un conjunto de clases que representen, de forma simplificada, a una
 hipotética empresa dedicada a prestar servicios de TV. A continuación, se describen las
 características básicas de estas clases:
@@ -27,16 +30,6 @@ menos, los siguientes métodos:
 • Crear un nuevo cliente.
 • Eliminar un cliente.
 • Cambiar de vehiculo.
-4. Jefe de zona. Tiene despacho, tiene un secretario a su cargo, una lista de vendedores a su
-cargo y tiene vehiculo de la empresa (identificado por la matrícula, marca y modelo).
-Incrementa su salario un 20% anual. Tendrá, al menos, los siguientes métodos:
-• Constructores (debe rellenar la información personal y los datos principales)
-• Imprimir (debe imprimir sus datos personales y su puesto en la empresa).
-• Cambiar de secretario.
-• Cambiar de vehiculo.
-• Crear y eliminar vendedores en su zona.
-Todos los empleados son vendedores, jefes de zona o secretarios. Los clientes básico
-pagan una tarifa de 100.000 mensual, los plata 150.000 y los oro 230.000.
 
 Los tipos de clientes debe tener un listado de canales (cada canal tiene un numero de
 canal y nombre, y si es HD o no), los cuales son unos canales básicos y dependiendo del
